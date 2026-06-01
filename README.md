@@ -8,23 +8,23 @@ The main goal of this repository is to strengthen problem-solving skills and bui
 ---
 
 ## Repository Structure
-
-The repository is divided into topic-wise folders for better understanding and navigation:
-
-Data-Structures-and-Algorithms/
-│
-├── 1.Array/
-├── 2.Linked Lists/
-├── 3.Stacks/
-├── 4.Queue/
-├── 5.Hashing/
-├── 6.Heap & Priority Queue/
-├── 7.Searching Algo/
-├── 8.Tree/
-├── 9.Backtracking/
-├── 10.Sorting Algorithms/
-├── 11.Graphs/
-└── 12.Extra/
+<br>
+The repository is divided into topic-wise folders for better understanding and navigation:<br>
+<br>
+Data-Structures-and-Algorithms/<br>
+│<br>
+├── 1.Array/<br>
+├── 2.Linked Lists/<br>
+├── 3.Stacks/<br>
+├── 4.Queue/<br>
+├── 5.Hashing/<br>
+├── 6.Heap & Priority Queue/<br>
+├── 7.Searching Algo/<br>
+├── 8.Tree/<br>
+├── 9.Backtracking/<br>
+├── 10.Sorting Algorithms/<br>
+├── 11.Graphs/<br>
+└── 12.Extra/<br>
 
 
 
