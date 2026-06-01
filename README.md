@@ -60,4 +60,3 @@ This repository contains **clean Python implementations** of fundamental Data St
 ```bash
 git clone https://github.com/vyanmadai7/Data-Structures-and-Algorithms.git
 cd Data-Structures-and-Algorithms
-python filename.py
