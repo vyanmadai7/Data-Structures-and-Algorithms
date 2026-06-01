@@ -1,62 +1,183 @@
-<div align="center">
+# Data Structures and Algorithms (Python)
 
-<h1>📘 Data Structures & Algorithms (Python)</h1>
+This repository contains my implementations of fundamental Data Structures and Algorithms in Python.  
+It is organized in a structured way to cover core topics step by step, from basic data structures to more advanced algorithmic problems.
 
-<p>
-A structured collection of DSA implementations in Python covering core concepts from basics to advanced.
-</p>
-
-</div>
+The main goal of this repository is to strengthen problem-solving skills and build a solid foundation in computer science fundamentals.
 
 ---
 
-## 🧠 Overview
+## Repository Structure
 
-<div style="padding:10px; border:1px solid #ddd; border-radius:10px;">
+The repository is divided into topic-wise folders for better understanding and navigation:
 
-This repository contains **clean Python implementations** of fundamental Data Structures and Algorithms.
+Data-Structures-and-Algorithms/
+│
+├── 1.Array/
+├── 2.Linked Lists/
+├── 3.Stacks/
+├── 4.Queue/
+├── 5.Hashing/
+├── 6.Heap & Priority Queue/
+├── 7.Searching Algo/
+├── 8.Tree/
+├── 9.Backtracking/
+├── 10.Sorting Algorithms/
+├── 11.Graphs/
+└── 12.Extra/
 
-</div>
 
----
 
-## 📂 Topics Covered
-
-<ul>
-  <li>📊 Arrays</li>
-  <li>🔗 Linked Lists</li>
-  <li>📦 Stacks</li>
-  <li>🚶 Queues</li>
-  <li>🧮 Hashing</li>
-  <li>🌳 Trees (Binary Tree & BST)</li>
-  <li>🌐 Graphs (BFS, DFS, Dijkstra)</li>
-  <li>🔄 Backtracking</li>
-  <li>⚡ Sorting Algorithms</li>
-  <li>🧩 Extra Problems (Greedy, DP basics, Union-Find)</li>
-</ul>
+Each folder contains Python implementations of problems related to that topic.
 
 ---
 
-## 🎯 Purpose
+## Topics Covered
 
-<div style="background:#f8f9fa; padding:10px; border-radius:8px;">
-
-- Build strong DSA fundamentals  
-- Practice Python problem solving  
-- Understand core algorithms step-by-step  
-
-</div>
-
----
-
-## ⚙️ Language Used
-
-**Python 🐍**
+### 1. Arrays
+Basic operations, searching techniques, and common array problems such as:
+- Reverse array
+- Maximum subarray
+- Two sum
+- Sliding window problems
+- Frequency counting
 
 ---
 
-## 🚀 How to Run
+### 2. Linked Lists
+Implementation and manipulation of singly, doubly, and circular linked lists:
+- Insertion and deletion
+- Reversing linked lists
+- Detecting cycles
+- Finding middle node
+- LRU cache concept
+
+---
+
+### 3. Stacks
+Stack implementation and applications:
+- Balanced parentheses
+- Next greater element
+- Expression evaluation
+- Minimum stack
+- String reversal using stack
+
+---
+
+### 4. Queue
+Queue operations and variations:
+- Basic queue implementation
+- Reverse first K elements
+- Palindrome checking using queue
+- Queue wrapper implementation
+
+---
+
+### 5. Hashing
+Hash-based problem solving:
+- Hash map and hash set usage
+- Two sum variations
+- Group anagrams
+- Top K frequent elements
+- Duplicate detection problems
+
+---
+
+### 6. Heap & Priority Queue
+Priority-based data structures:
+- Heap implementation
+- Max heap operations
+- Kth largest element problem
+
+---
+
+### 7. Searching Algorithms
+Fundamental searching techniques:
+- Linear search
+- Binary search
+
+---
+
+### 8. Trees
+Binary tree and BST operations:
+- Tree traversal concepts
+- Height and diameter of tree
+- Lowest common ancestor
+- Mirror tree
+- Balanced tree check
+- BST operations
+
+---
+
+### 9. Backtracking
+Recursive problem solving approach:
+- Subsets generation
+- Permutations
+- N-Queens problem
+- Sudoku solver
+- Word search
+- Combination sum problems
+
+---
+
+### 10. Sorting Algorithms
+Sorting techniques implemented from scratch:
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Counting sort
+- Radix sort
+- Gnome sort
+- Timsort reference
+
+---
+
+### 11. Graphs
+Graph representations and algorithms:
+- Adjacency list and matrix
+- BFS and DFS traversal
+- Connected components
+- Cycle detection
+- Dijkstra’s algorithm
+
+---
+
+### 12. Extra Algorithms
+Additional important algorithms:
+- Knapsack problem
+- Longest Increasing Subsequence
+- Union-Find (Disjoint Set)
+- Topological sort
+- Greedy interval scheduling
+- Sliding window variations
+
+---
+
+## Language Used
+
+- Python
+
+---
+
+## Purpose of This Repository
+
+This repository is built for:
+
+- Strengthening core data structures and algorithm knowledge
+- Practicing problem-solving in Python
+- Understanding how standard algorithms work internally
+- Building consistency in coding practice
+
+---
+
+## How to Use
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/vyanmadai7/Data-Structures-and-Algorithms.git
-cd Data-Structures-and-Algorithms
+
+
+---
