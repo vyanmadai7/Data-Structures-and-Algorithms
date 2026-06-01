@@ -1,0 +1,2 @@
+-> Backtracking is a systematic way of exploring all possible choices to solve problems like puzzles,
+permutations, and combinatorial searches

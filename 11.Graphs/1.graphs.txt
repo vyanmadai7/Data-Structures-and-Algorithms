@@ -1,0 +1,2 @@
+-> Graph is a non-linear data structure used to model relationships between objects. It is a "map" of connections.
+

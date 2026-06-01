@@ -1,0 +1,23 @@
+-> A heap is a complete binary tree that satisfies the heap property.
+
+o Max-Heap: Parent >= Children -> largest element at root.
+o Min-Heap: Parent <= Children -> smallest element at root.
+
+o Efficient for:
+-> Accessing min/max in O(1)
+-> Inertion/Deletion in O(log n)
+
+
+   Operation            Time complexity
+
+1.Insert/push            O(log n)
+2.Extract Min/max        O(log n)
+3.Peek/Top               O(1)
+4.Build Heap             O(n)
+5.Space                  O(n)
+
+
+
+#Priority Queue 
+
+-> Is an abstract data structure where each element has a Priority

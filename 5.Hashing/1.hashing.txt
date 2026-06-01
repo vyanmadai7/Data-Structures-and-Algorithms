@@ -1,0 +1,9 @@
+-> Hashing is a way to map keys to indices in a table using a hash function.
+-> This allows O(1) average-time access to elements.
+
+## HASH MAP / Dictionary in Python
+-> Stores key-value pairs.
+-> Average O(1) insert, search, delete.
+-> Keys must be hashable(int, str, tuple, etc).
+-> Python dictionaries automatically handle collisions.
+

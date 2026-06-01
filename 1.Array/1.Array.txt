@@ -1,0 +1,8 @@
+-> A collection of items/elements stored in contiguous memory locations.
+-> Can access elements directly using index -O(1)
+-> Fixed size in many languages, but python lists are dynamic arrays.
+
+## WHY ARRAYS?
+-> Fast access by index.
+-> Simple to store sequences.
+-> Common in almost in problems.

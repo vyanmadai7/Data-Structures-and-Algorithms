@@ -1,0 +1,26 @@
+-> A linked list is a linear collection of nodes, where each node stores data and a pointer/refrence to the next node.
+Unlike arrays, linked lists don't require contiguous memory, and insertion/deletion is faster if you have the node
+reference.
+
+## TYPES OF LINKED LISTS 
+
+1. Singly Linled List 
+=> Each node points only to the next node 
+=> Traversal: Forward only 
+
+2. Doubly Linked List 
+=> Each node points to next and previous nodes 
+=> Traversal: forward and backward
+
+3. Circular Linked List 
+=> Last node points back to the head, can be singly or Doubly
+
+
+## Basic Operations
+
+1.Insertion 
+-> At head
+-> At tail
+
+2.Deletion
+->By value

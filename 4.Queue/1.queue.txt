@@ -1,0 +1,8 @@
+-> A queue is a linear data structure that follows the FIFO (First In, First Out) principle,
+meaning the element inserted first is removed first.
+It works like a real life line of people waiting for service,
+where the first person in line is served first. In a queue,
+insertion (called enqueue) happens at the rear end, 
+and deletion (called dequeue) happens at the front end. 
+Queues are commonly used in task scheduling,
+printer spooling, and handling requests in operating systems.

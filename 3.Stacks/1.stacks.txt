@@ -1,0 +1,8 @@
+-> A stack is a linear data structure that follows the Last In, First Out (LIFO) principle,
+meaning the last element added to the stack is the first one to be removed.
+It works like a stack of plates where you can only add or remove the top plate.
+The main operations in a stack are push (to insert an element), pop (to remove the top element),
+and peek/top (to view the top element without removing it).
+Stacks are widely used in programming for function call management (call stack),
+expression evaluation, undo/redo features, and problems involving recursion or backtracking.
+

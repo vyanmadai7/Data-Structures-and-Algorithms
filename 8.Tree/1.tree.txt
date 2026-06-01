@@ -1,0 +1,1 @@
+-> A tree is a hierarchical data structure made of nodes connected by edges.

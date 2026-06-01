@@ -1,0 +1,15 @@
+A binary tree is a type of tree data structure in which each node can have at most two children,
+commonly called the left child and the right child.
+It starts with a single node called the root, and every other node is connected
+in a hierarchical way through parent-child relationships. Unlike general trees,
+a binary tree strictly limits each node to two branches,
+which makes it easier to traverse and use in algorithms.
+Each node typically contains three parts: the data value,
+a reference to the left child, and a reference to the right child.
+Binary trees are widely used in computer science for efficient searching,
+sorting, and hierarchical data representation. Common types include full
+binary tree (every node has 0 or 2 children), complete binary tree
+(all levels filled except possibly the last), and perfect binary tree
+(all internal nodes have two children and all leaves are at the same level).
+They are the foundation for important structures like binary search trees (BSTs),
+heaps, and many advanced algorithms.

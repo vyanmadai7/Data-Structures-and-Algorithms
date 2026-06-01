@@ -1,0 +1,12 @@
+A Binary Search Tree (BST) is a type of binary tree where every node follows a special ordering rule:
+all values in the left subtree are smaller than the node’s value,
+and all values in the right subtree are larger than the node’s value.
+This property applies recursively to every node in the tree,
+which means each subtree is also a valid BST. Because of this structure,
+BST allows efficient operations like searching, insertion, and deletion,
+typically in O(log n) time if the tree is balanced.
+The root node acts as the starting point, and based on comparisons,
+you move left or right until you find the value or reach a null node.
+BSTs are widely used in real-world systems for fast lookup, indexing,
+and maintaining sorted data dynamically.
+However, if a BST becomes unbalanced (like a linked list), its performance can degrade to O(n).

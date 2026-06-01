@@ -1,0 +1,4 @@
+## Hash Set 
+-> Stores unique elements.
+-> Operations add,remove, in(existence) in O(1) average.
+-> Ideal for deduplication, lookups, and intersection and union problems.
